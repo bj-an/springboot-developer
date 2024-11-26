@@ -1,7 +1,6 @@
-package me.byungju;
+package me.byungju.springbootdeveloper.dto;
 
 import lombok.AllArgsConstructor;
-import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import me.byungju.springbootdeveloper.domain.Article;
